@@ -18,7 +18,6 @@ public class DataGenerator {
 		}
 
 	}
-	
 	public static void main(String[] args){
 		generate("/Users/Yanhan/Desktop/sample1", 10000000);
 	}
