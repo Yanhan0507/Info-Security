@@ -3,6 +3,11 @@ import java.awt.event.*;
 import java.io.*;
 import java.net.*;
 
+/*
+ * 
+ * author: Yanhan, Xianshu
+ * 
+ */
 class ClientUpload extends JFrame implements ActionListener {
 
     JFileChooser fc;
