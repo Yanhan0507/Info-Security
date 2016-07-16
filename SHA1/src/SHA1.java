@@ -2,14 +2,14 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 
 
-//<<<<<<< HEAD
-// 000
-// 111
-//=======
-// 333
 
-//>>>>>>> 0d8bfd39c32588840a0ae42d515700ae950f1507
-// 555
+
+
+
+
+
+
+
 
 public class SHA1 {
     //SHA1 produces a 20-byte message digest
