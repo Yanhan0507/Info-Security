@@ -1,7 +1,8 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-
+// 000
+// 111
 public class SHA1 {
     //SHA1 produces a 20-byte message digest
     public final static int DIGEST_SIZE = 20;
